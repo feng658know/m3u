@@ -101,7 +101,7 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/feng658know/m3u/main/WXXW.jpg" group-title="港澳台",无线新闻
 https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB  J2
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/feng658know/m3u/main/tb/TVBJ2.jpg" group-title="港澳台",TVB J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
