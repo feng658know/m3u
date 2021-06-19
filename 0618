@@ -76,7 +76,7 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东",广东珠江
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="广东",广东公共
-https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=9659f8da568002b64bdc431c7f57e9c0-Owfgf3GRGdBQWbKwyD%2FqngI8OJYNGMG%2FgxmzqfCGQgN7KNSsjjycmMT%2FvJkqjWX4o55rLhT99tLhLqQMsSfJ4GOVsNaBtUW9NUU4WNDPeraw5lF%2Fnnyh8pCtjRpdDWPBvDzSnvsNe9jCorsntTJfMqP7IVymzEtZXqWkqgS%2BSPsOkoOZEqKF2HVT9vHBY2vK
+https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=883e5dd3250e1140e4969da231a9a1a8-6HthOKNcDghLNfV642FDPk9Gck9TrWokopjjjyRD%2BYNyGQYjwEBX2NVJ5OqNw4E5bTIrn4YL9rjtlLZYgCOibzlkDWbi%2B03Hs3vlzSmTO6dBmhbYYvl6TV93I%2BHU66ws0B9z%2BzCZre7Nrw%2Bk2bBuNSb1Inrr%2BE24voy5kzA1BKRrG4KWqDz6cKMUczxFLEW2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="广东",广东新闻
 https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=3372b79c680f0b06f21cdcbd71835ff9-pLcL4Ujn3UqifPUoyXVFcpox1h1bpvl%2Fr1wnKKdLeKsNkw4Md9JghDF7Dmozl8FbjIvc4dCDYSj86Y3ajbM8JkBx1DLlcjRbJGpLk52MYUGP2vqaWJEeAYfzBNs%2FqWt%2BXzBOZ33lQQvJm5twzp5O%2Fz9bxfOFlHGn0ExzVsghzq7nsolHS0Hesfw1T7QD08wN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/feng5know/feng/raw/master/ZH.jpg" group-title="广东",珠海1台
